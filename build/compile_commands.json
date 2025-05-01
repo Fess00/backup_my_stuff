@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/magicwheel/Documents/Code/C/backup_my_stuff/build",
-  "command": "/usr/bin/gcc   -g -std=gnu2x -o CMakeFiles/backup_my_stuff.dir/main.c.o -c /home/magicwheel/Documents/Code/C/backup_my_stuff/main.c",
-  "file": "/home/magicwheel/Documents/Code/C/backup_my_stuff/main.c"
-}
-]
