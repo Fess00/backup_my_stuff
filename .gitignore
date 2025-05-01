@@ -129,6 +129,7 @@ dkms.conf
 
 # CMake
 cmake-build-*/
+build/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
