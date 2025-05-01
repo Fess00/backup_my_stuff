@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
     else {
         char executable_string[512];
         snprintf(executable_string, sizeof(executable_string), "sshpass -p '%s' scp -r root@%s:%s %s ", argv[2], argv[1], argv[3], argv[4]);
-
+        
         thrd_t progress_thread;
         thrd_create(&progress_thread, show_progress, NULL);
 
@@ -28,7 +28,7 @@ int main(int argc, char *argv[]) {
         thrd_join(progress_thread, NULL);
 
         if (!error) {
-            printf(stderr, "Finished with code: %s\n", error);
+            printf("Finished with code: %s\n", error);
         }
     }
     return 0;

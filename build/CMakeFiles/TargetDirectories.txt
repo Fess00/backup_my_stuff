@@ -1,0 +1,3 @@
+/home/magicwheel/Documents/Code/C/backup_my_stuff/build/CMakeFiles/backup_my_stuff.dir
+/home/magicwheel/Documents/Code/C/backup_my_stuff/build/CMakeFiles/edit_cache.dir
+/home/magicwheel/Documents/Code/C/backup_my_stuff/build/CMakeFiles/rebuild_cache.dir

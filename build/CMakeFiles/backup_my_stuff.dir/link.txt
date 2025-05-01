@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/backup_my_stuff.dir/main.c.o -o backup_my_stuff 
